@@ -1,0 +1,17 @@
+  {/* <header className="search-container">
+                <h1>Search Athlete</h1>
+                <nav class="navbar bg-body-tertiary">
+                    <div class="container-fluid">
+                        <form class="d-flex" role="search">
+                            <label for="search" class="form-label">Name:</label>
+                            <input class="form-control me-2"
+                                placeholder="search athlete"
+                                id="search"
+                                value={searchTerm}
+                                onChange={(s) => SetSearchTerms(s.target.value)}
+                                onKeyDown={handleKeypress} />
+                            <button class="btn btn-outline-success" type="submit" onClick={handleSubmit}>Search</button>
+                        </form>
+                    </div>
+                </nav>
+            </header> */}
